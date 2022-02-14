@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Syllabus
+type: SupplementalResourceSection
 uid: e4826c12-895f-04b4-99c4-9b98474335e0
 ---
 

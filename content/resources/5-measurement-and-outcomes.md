@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture slides ([PDF](resources/lecture5 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: '5: Measurement and Outcomes'
 uid: 5cf66cbf-13b1-836b-0b87-cbb16af2d9c5

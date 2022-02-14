@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture slides ([PDF](resources/lecture1 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: '1: What is Evaluation?'
 uid: 7d2f4c21-aba4-4df7-64ed-54963620da35

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture slides ([PDF](resources/lecture2 "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: '2: Why Randomize?'
 uid: b99b2ce5-48e4-29df-6225-37496c84d99e

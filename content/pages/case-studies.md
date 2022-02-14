@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Case Studies
+type: SupplementalResourceSection
 uid: e3312a7a-ec87-9969-3a28-5e14aaba76b8
 ---
 
