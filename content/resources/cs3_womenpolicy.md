@@ -8,6 +8,5 @@ parent_title: Case Studies
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs3_womenpolicy.pdf
-type: OCWFile
 uid: 75bed171-10fe-de39-0915-45e50b287995
 ---

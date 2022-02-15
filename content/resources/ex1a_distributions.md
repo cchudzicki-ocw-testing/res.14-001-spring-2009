@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex1a_distributions.jar
-type: OCWFile
 uid: 26a9c3d6-286c-f9aa-bcd3-95f2cd5af8df
 ---

@@ -4,7 +4,6 @@ is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
 title: Lecture Notes
-type: SupplementalResourceSection
 uid: 1319ffde-d0d1-e1a1-267a-a50f0f912d5d
 videos:
   content:

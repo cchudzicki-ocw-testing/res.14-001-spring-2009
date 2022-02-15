@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex2_data.xls
-type: OCWFile
 uid: 2d724683-238a-3916-1200-337a33d88bb7
 ---

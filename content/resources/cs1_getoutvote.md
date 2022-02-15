@@ -8,6 +8,5 @@ parent_title: Case Studies
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs1_getoutvote.pdf
-type: OCWFile
 uid: c6cf7882-25c1-7d49-912f-b4c53ed0e4ae
 ---

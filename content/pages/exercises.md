@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Exercises
-type: SupplementalResourceSection
 uid: c719a05a-b4bd-1381-bc3d-bd9ae0ba26fb
 ---
 

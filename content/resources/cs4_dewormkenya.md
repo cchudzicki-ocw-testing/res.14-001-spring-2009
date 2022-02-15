@@ -8,6 +8,5 @@ parent_title: Case Studies
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs4_dewormkenya.pdf
-type: OCWFile
 uid: 20486fb0-5814-352f-956a-8b7a690be9c8
 ---

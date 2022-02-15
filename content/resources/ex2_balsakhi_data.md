@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex2_balsakhi_data.dta
-type: OCWFile
 uid: f0af5f4a-623f-9005-5473-6b2d561d4678
 ---

@@ -8,6 +8,5 @@ parent_title: Exercises
 parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex3.xls
-type: OCWFile
 uid: 1860031f-0520-79cc-cafb-e89fa198b834
 ---
