@@ -75,7 +75,7 @@ Calendar
 
 Two lectures are given during each of the first four days of the program. The fifth day is devoted to group presentations.
 
-### {{< resource_link dea40e89-90ed-6f9b-9225-9d6a9a81c837 "Acknowledgements" >}}
+### {{% resource_link dea40e89-90ed-6f9b-9225-9d6a9a81c837 "Acknowledgements" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
