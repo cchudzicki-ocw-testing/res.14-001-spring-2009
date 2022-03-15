@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs1_getoutvote.pdf
 uid: c6cf7882-25c1-7d49-912f-b4c53ed0e4ae
+video_metadata:
+  youtube_id: null
 ---

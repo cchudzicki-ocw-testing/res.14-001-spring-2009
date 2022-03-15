@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs2_indiaedu.pdf
 uid: 453e7754-5282-23d1-aea3-bd4087f337cd
+video_metadata:
+  youtube_id: null
 ---

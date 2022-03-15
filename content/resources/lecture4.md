@@ -11,4 +11,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: lecture4.pdf
 uid: 8e37e8bc-9da6-defc-34fa-551b28a5310f
+video_metadata:
+  youtube_id: null
 ---

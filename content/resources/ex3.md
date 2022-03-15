@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex3.xls
 uid: 1860031f-0520-79cc-cafb-e89fa198b834
+video_metadata:
+  youtube_id: null
 ---

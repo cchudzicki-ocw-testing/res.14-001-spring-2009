@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture slides ([PDF](resources/lecture4 "Open in a new window."))
+related_resources_text: Lecture slides ([PDF](/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/resources/lecture4))
 resource_index_text: ''
 resourcetype: Video
 title: '4: How to Randomize II'

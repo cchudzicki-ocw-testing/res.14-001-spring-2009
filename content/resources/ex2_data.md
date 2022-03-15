@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex2_data.xls
 uid: 2d724683-238a-3916-1200-337a33d88bb7
+video_metadata:
+  youtube_id: null
 ---

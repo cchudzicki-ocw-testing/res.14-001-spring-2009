@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: ex2_instructions.pdf
 uid: fc16bfbd-2bd7-a9b8-2f78-bebc8a17ec91
+video_metadata:
+  youtube_id: null
 ---

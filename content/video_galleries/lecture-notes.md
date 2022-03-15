@@ -6,6 +6,8 @@ learning_resource_types:
 ocw_type: SupplementalResourceSection
 title: Lecture Notes
 uid: 1319ffde-d0d1-e1a1-267a-a50f0f912d5d
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 7d2f4c21-aba4-4df7-64ed-54963620da35

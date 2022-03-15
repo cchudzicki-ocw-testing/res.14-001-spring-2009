@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Document
 title: cs3_womenpolicy.pdf
 uid: 75bed171-10fe-de39-0915-45e50b287995
+video_metadata:
+  youtube_id: null
 ---

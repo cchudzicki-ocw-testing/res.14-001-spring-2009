@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Exercises
 uid: c719a05a-b4bd-1381-bc3d-bd9ae0ba26fb
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

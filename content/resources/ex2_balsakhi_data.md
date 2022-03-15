@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex2_balsakhi_data.dta
 uid: f0af5f4a-623f-9005-5473-6b2d561d4678
+video_metadata:
+  youtube_id: null
 ---

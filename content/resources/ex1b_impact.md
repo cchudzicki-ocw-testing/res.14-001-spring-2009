@@ -10,4 +10,6 @@ parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex1b_impact.xls
 uid: cb7c836c-63d5-1b9c-890c-fd924e697db3
+video_metadata:
+  youtube_id: null
 ---
