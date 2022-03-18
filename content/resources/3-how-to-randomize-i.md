@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Videos
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
