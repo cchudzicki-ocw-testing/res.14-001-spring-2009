@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -20,6 +21,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture slides ([PDF](/courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/resources/lecture8))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '8: Analyzing Data'
 uid: 12e90a4c-a17a-58f4-25b6-f0b8b5c3ad6a
 video_files:
