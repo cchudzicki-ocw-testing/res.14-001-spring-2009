@@ -47,7 +47,7 @@ Data ({{% resource_link 2d724683-238a-3916-1200-337a33d88bb7 "XLS" %}})
 
 Balsakhi Data ({{% resource_link f0af5f4a-623f-9005-5473-6b2d561d4678 "DTA" %}})
 
-Stata ([DO](./resolveuid/f1947482ba33fb6f763de283cee3a0f9))
+Stata ({{% resource_link "f1947482-ba33-fb6f-763d-e283cee3a0f9" "DO" %}})
 
 
 {{< tdclose >}}
