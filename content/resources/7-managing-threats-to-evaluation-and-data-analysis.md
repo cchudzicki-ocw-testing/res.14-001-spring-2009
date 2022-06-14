@@ -39,3 +39,4 @@ video_metadata:
 *   Partial compliance and selection bias
 
 **Instructor:** Michael Kremer
+

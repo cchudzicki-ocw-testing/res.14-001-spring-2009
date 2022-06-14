@@ -42,3 +42,4 @@ video_metadata:
 *   Data collection/entry
 
 **Instructor:** Esther Duflo
+

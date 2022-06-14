@@ -40,3 +40,4 @@ video_metadata:
 *   Cost-effectiveness
 
 **Instructor:** Shawn Cole
+

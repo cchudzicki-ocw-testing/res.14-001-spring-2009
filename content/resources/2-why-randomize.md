@@ -35,3 +35,4 @@ video_metadata:
 **Topics covered:** Why randomize?
 
 **Instructor:** Dan Levy
+

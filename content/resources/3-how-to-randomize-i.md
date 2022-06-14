@@ -39,3 +39,4 @@ video_metadata:
 *   Gathering support
 
 **Instructor:** Dean Karlan
+
