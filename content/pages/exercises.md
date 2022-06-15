@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Exercise 1A and B: Distributions and Impact, Exercise 2: The mechanics
+  of simple random assignment using MS Excel?, and Exercise 3: Sample size calculation
+  with clustered design.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Exercises

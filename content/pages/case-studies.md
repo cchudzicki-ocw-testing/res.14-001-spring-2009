@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Why Randomize?, How to Randomize I, Measurement and Outcomes, and Managing
+  Threats to Evaluation and Data Analysis.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Case Studies

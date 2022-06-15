@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Program Objectives, Curriculum, Teaching Methods, and Calendar.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
