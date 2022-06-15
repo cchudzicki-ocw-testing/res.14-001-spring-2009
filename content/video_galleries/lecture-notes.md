@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: What is evaluation?, Why randomize?, How to Randomize I, How to Randomize
+  II, Measurement and Outcomes, Sample Size and Power Calculations, Managing threats
+  to evaluation and data analysis, and Analyzing Data.
 draft: false
 is_media_gallery: true
 learning_resource_types:
